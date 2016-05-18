@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F9AE174321CD3951D33BEAF69079A04D68BBDA40",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "078DFD6076113D1689FA038E8CF124162874002E" : 0,
+    "F9AE174321CD3951D33BEAF69079A04D68BBDA40" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF015C62-D9EF-47F9-87F4-AF46E0B3ABF2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "078DFD6076113D1689FA038E8CF124162874002E" : "SocialAppTemplate\/swift-chat\/",
+    "F9AE174321CD3951D33BEAF69079A04D68BBDA40" : "SocialAppTemplate\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SocialAppTemplate",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SocialAppTemplate.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sagesse-cn\/swift-chat.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "078DFD6076113D1689FA038E8CF124162874002E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Barrymn\/SocialAppTemplate.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F9AE174321CD3951D33BEAF69079A04D68BBDA40"
+    }
+  ]
+}

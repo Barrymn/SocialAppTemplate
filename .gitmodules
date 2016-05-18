@@ -1,0 +1,3 @@
+[submodule "swift-chat"]
+	path = swift-chat
+	url = https://github.com/sagesse-cn/swift-chat.git
