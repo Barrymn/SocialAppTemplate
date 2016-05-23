@@ -11,7 +11,7 @@ import SIMChat
 
 class ChatConversation: SIMChatBaseConversation {
     
-    required init(receiver: SIMChatUserProtocol, manager: SIMChatManager) {
+    required init(receiver: SIMChatUserProtocol, manager: SIMChatBaseManager) {
         super.init(receiver: receiver, manager: manager)
         //        // load
         //        if let manager = manager as? ExManager {
