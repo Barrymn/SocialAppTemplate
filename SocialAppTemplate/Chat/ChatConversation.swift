@@ -19,6 +19,10 @@ class ChatConversation: SIMChatBaseConversation {
         //        }
     }
     
+    required init(receiver: SIMChatUserProtocol, manager: SIMChatManager) {
+        fatalError("init(receiver:manager:) has not been implemented")
+    }
+    
     //var imp: TIMConversation?
     private var _allMessagesIsLoaded: Bool = false
     
